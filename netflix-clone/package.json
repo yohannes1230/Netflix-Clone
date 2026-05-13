@@ -1,7 +1,5 @@
 {
   "homepage": "https://yohannes1230.github.io/Netflix-Clone",
-
-
   "name": "netflix-clone",
   "version": "0.1.0",
   "private": true,
@@ -44,6 +42,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "github-pages": "^3.0.2"
   }
 }

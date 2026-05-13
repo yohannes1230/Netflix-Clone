@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@400;500;700;800;900&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background: #141414;
+}
+
+body {
+  background: #141414;
+  margin: 0;
+  min-width: 320px;
+}
+
+button,
+input,
+select {
+  font-family: inherit;
+}
+
+img,
+video {
+  max-width: 100%;
+}
+
+::selection {
+  background: #e50914;
+  color: #fff;
+}
